@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Definición del Problema](#Definición del Problema)
+- [Definición del Problema](#Definición-del-Problema)
 - [Antecedentes Previos](#Antecedentes-Previos)
 - [Hipótesis](#Hipótesis)
 - [Validación de Hipótesis](#Validación-de-Hipótesis)
