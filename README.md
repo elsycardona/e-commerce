@@ -29,12 +29,12 @@
 
 Durante este proceso se usaron diversas herramientas:
 - [Google](https://www.google.com/) - Buscador
-- [GitHub](https://github.com/) - Descarga de Repositorio y commits
+- [GitHub](https://github.com/) - Repositorio y commits
 - [Google Forms](https://www.google.com/forms/about/) - Generación de Test
 - [Google Drive](https://www.google.com/intl/es-419/drive/) - Reporte de UX
-- [Real Time Board](https://realtimeboard.com)
-- [Kichink](https://www.kichink.com/)
-- [Figma](https://www.figma.com/prototyping-tool/)
+- [Real Time Board](https://realtimeboard.com) - Organización de Investigación
+- [Kichink](https://www.kichink.com/) - Utilización de sitio
+- [Figma](https://www.figma.com/prototyping-tool/) - Prototipo de Alta Calidad
 
 ## Autoras
 
