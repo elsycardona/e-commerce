@@ -3,11 +3,11 @@
 ## Índice
 
 - [Definición del Problema](#Definición del Problema)
-- [Antecedentes Previos](#Antecedentes Previos)
+- [Antecedentes Previos](#Antecedentes-Previos)
 - [Hipótesis](#Hipótesis)
-- [Validación de Hipótesis](#Validación de Hipótesis)
+- [Validación de Hipótesis](#Validación-de-Hipótesis)
 - [Análisis](#Análisis)
-- [Interpretación y Solución](#Interpretación y Solución)
+- [Interpretación y Solución](#Interpretación-y-Solución)
 - [Herramientas](#Herramientas)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
