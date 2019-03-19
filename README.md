@@ -18,12 +18,12 @@
 
 ![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)
 
-<span style="color:pink">"*CUCU Caramelo*"</span> es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
+"*CUCU Caramelo*" es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
 Con el propósito de dar un toque novedoso a los recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
 
 La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos de sus puntos de venta, como en Toluca y Metepec, como tal no tiene una tienda fìsica, sin embargo los usuarios que compran fuera de este tipo de tiendas, recogen el producto en la casa de la Diseñadora y Lìder del proyecto *Angèlica Duràn*; asì mismo se comunican por medio de WhatsApp y/o llamada a celular.
 
-*CUCU Caramelo* cuenta con una pàgina de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angèlica y compradores de Party Land.
+CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angèlica y compradores de Party Land.
 
 
 ## Objetivos del Proyecto
@@ -41,6 +41,11 @@ La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos
 ![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true)
 
 
+Con base a lo anterior, se han definido las siguientes problemàticas:
+
+* PROBLEMA 1
+* PROBLEMA 2
+
 ## Definición del Público Objetivo
 
 Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Google Forms para definir al Pùblico Objetivo
@@ -53,6 +58,8 @@ Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Go
 
 Mujeres entre 25 y 36 años, con hijos menores de 15 años.
 Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la tecnologìa, las compras por Internet y conscientes con el medio ambiente.
+
+Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que ser òptimo, està pendiente de los detalles, suele buscar inspiraciòn e ideas para la decoraciòn.
 
 ### Historias de Usuarios
 
