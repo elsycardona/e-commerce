@@ -126,13 +126,16 @@ Para el **Negocio Digital** se plantea lo siguiente:
 
 Para el **Negocio Verde** se plantea lo siguiente:
 
-1. Cambiar materiales por materiales ecólogicos, reusables o comestibles
+1. Cambiar materiales por materiales ecólogicos, reusables o comestibles. 
+	*50 etiquetas de cartulina kraft de 300 gr., medida 5 x 8 cm con 10 mts de cordon de yute natural por $89.00
 
 2. Hacer uso de papel semilla
 
 3. Usar tintas vegetales
 
 5. Minimizar el uso de agua y materiales plásticos no reusables
+
+
 
 ### Mapeo de Competencia
 
