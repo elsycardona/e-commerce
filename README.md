@@ -85,19 +85,20 @@ Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que se
 
 ## Definición de la Solución
 
-Con lo anterior, se dedujò una Hipotèsis misma que fue validada ([con este formulario])(https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
+Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este formulario](https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
 
-Hipotèsis: 
+### Hipotèsis: 
 
 __Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes__
 
-* Consideraciones importantes:
+
+### Consideraciones importantes:
 
 En cuanto a la necesidad de un negocio digital, se dedujo lo siguiente:
-![negociodigital](
+![negociodigital](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negociodigital.png?raw=true)
 
 El negocio verde aportarìa lo siguiente:
-![negocioverde](
+![negocioverde](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negocioverde.png?raw=true)
 
 ## Prototipo
 
