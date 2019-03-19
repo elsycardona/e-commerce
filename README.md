@@ -101,7 +101,7 @@ Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este for
 
 La hipotèsis, una vez vàlidada por las usuarias y considerando lo anterior; se realizò un Journey Map y una propuesta de valor donde ambas arrojaròn lo siguiente:
 
-![journeymap](
+![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
 
 [Propuesta de Valor](PREZI!!!)
 
