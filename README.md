@@ -8,8 +8,7 @@
 - [Definición del Público Objetivo](#Definición-del-Público-Objetivo)
 - [Definición de la Solución](#Definición-de-la-Solución)
 - [Prototipo](#Prototipo)
-- [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos)
-- [Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-las-Necesidades-del-Usuario-Final)
+- [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos-y-Necesidades-del-Usuario-Final)
 - [Herramientas](#Herramientas)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
@@ -19,18 +18,18 @@
 ![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)
 
 "*CUCU Caramelo*" es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
-Con el propósito de dar un toque novedoso a los recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
+Con el propósito de dar un toque novedoso a los recuerdos, para que el cliente le de los acabados finales que a él màs le convenga.
 
-La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos de sus puntos de venta, como en Toluca y Metepec, como tal no tiene una tienda fìsica, sin embargo los usuarios que compran fuera de este tipo de tiendas, recogen el producto en la casa de la Diseñadora y Lìder del proyecto *Angèlica Duràn*; asì mismo se comunican por medio de WhatsApp y/o llamada a celular.
+La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos de sus puntos de venta, como en Toluca y Metepec, como tal no tiene una tienda física, sin embargo los usuarios que compran fuera de este tipo de tiendas, recogen el producto en la casa de la Diseñadora y Lìder del proyecto *Angélica Durán*; asì mismo se comunican por medio de WhatsApp y/o llamada a celular.
 
-CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angèlica y compradores de Party Land.
+CUCU Caramelo cuenta con una página de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angélica y compradores de Party Land.
 
 
 ## Objetivos del Proyecto
 
-* Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
-* De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
-* Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
+* Al proyecto descrito, se le incentivará de la mejor manera a través de una investigación.
+* De ser necesario, por medio de la investigación, se le replanteará un pùblico objetivo
+* Se le brindarán soluciones encaminadas a un producto que determine de manera eficaz, sus próximos alcances.
 
 
 ## Problemas Identificados en la Investigación
@@ -39,13 +38,13 @@ CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantem
 ![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true)
 
 
-__Con base a lo anterior, se han definido las siguientes problemàticas:__
+__Con base a lo anterior, se han definido las siguientes problemáticas:__
 
-* Hace falta un sistema de envìos que agilice la recepciòn de los pedidos
+* Hace falta un sistema de envíos que agilice la recepción de los pedidos
 
-* Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiraciòn
+* Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiración
 
-* Que el alcance sea mayor y no sòlo dentro del Estado de Mèxico
+* Que el alcance sea mayor y no sòlo dentro del Estado de México
 
 * Generar menos desperdicios
 
@@ -55,19 +54,19 @@ __Con base a lo anterior, se han definido las siguientes problemàticas:__
 
 ## Definición del Público Objetivo
 
-Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Google Forms para definir al Pùblico Objetivo
+Se hizo una investigación exahustiva donde se implementó un cuestionario en Google Forms para definir al Público Objetivo
 
 * [Formulario](https://goo.gl/forms/tIii4u1RYboI15UC3)
 
 
-### Resultados Pùblico Objetivo
+### Resultados Público Objetivo
 
 ![usuaria](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/usuaria.png?raw=true)
 
 Mujeres entre 25 y 36 años, con hijos menores de 15 años.
-Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la tecnologìa, las compras por Internet y conscientes con el medio ambiente.
+Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la tecnología, las compras por Internet y conscientes con el medio ambiente.
 
-Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que ser òptimo, està pendiente de los detalles, suele buscar inspiraciòn e ideas para la decoraciòn.
+Dedica tiempo para la organización de sus celebraciones, pero este tiene que ser óptimo, està pendiente de los detalles, suele buscar inspiración e ideas para la decoración.
 
 ![emociones](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/emocionesusuaria.png?raw=true)
 
@@ -76,18 +75,18 @@ Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que se
 
 * Yo como usuaria quisiera poder hacer un pedido a *CUCU Caramelo* y que este llegue en tiempo y forma al destino donde lo requiero, sin tener que ir a recogerlo
 
-* Yo como usuaria me gustarìa poder visualizar los productos de *CUCU Caramelo* en una plataforma por Internet, asì tambièn podrè compartirlos màs facilmente con otras posibles interesadas
+* Yo como usuaria me gustaría poder visualizar los productos de *CUCU Caramelo* en una plataforma por Internet, así también podrè compartirlos más facilmente con otras posibles interesadas
 
 * Yo como usuaria, al final del evento termino cansada de recoger la basura que se genera en el evento, quisiera que eso pudiera disminuir
 
 
 ## Definición de la Solución
 
-Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este formulario](https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
+Con lo anterior, se dedujó una Hipótesis misma que fue validada, [con este formulario](https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
 
-### Hipotèsis: 
+### Hipótesis: 
 
-*Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes*
+*Se tienen dos problématicas principales, una que va más enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrían atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes*
 
 
 ### Consideraciones importantes:
@@ -97,31 +96,43 @@ Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este for
 ![negocioverde](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negocioverde.png?raw=true)
 
 
-### Validaciòn de Hipòtesis
+### Validación de Hipótesis
 
-La hipotèsis, una vez vàlidada por las usuarias y considerando lo anterior; se realizò un Journey Map y una propuesta de valor donde ambas arrojaròn lo siguiente:
+La hipótesis, una vez validada por las usuarias y considerando lo anterior; se realizó un Journey Map, basado en un [formulario](https://goo.gl/forms/JdnubQeVakFWSiTC2) preciso del recorrido que hacen (pre, durante y post-evento) y una propuesta de valor donde ambas arrojarón lo siguiente:
 
 ![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
 
 [Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/)
 
-Con lo anterior se precisò realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
+Con lo anterior se precisó realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
 
 Para el **Negocio Digital** se plantea lo siguiente:
 
-1. Abrir una tienda en Kinchink, ya que esta le darà el alcance que busca a un costo moderado, asì mismo maneja el àrea de envìos y proporciona un catalogo con los precios
+1. Abrir una tienda en Kinchink, ya que esta le dará el alcance que busca a un costo moderado, asì mismo maneja el área de envíos y proporciona un catálogo con los precios
 
-2. Abrir una pàgina de inspiraciòn en Pinterest, y como consejo dar mantenimiento al Facebook actual
+2. Cero costo de inversión inicial, no tiene costo mensual
+
+3. Sólo se mantiene una comisión por venta
+
+4. Se genera tráfico, para lo cual consideramos que abrir una página en Pinterest, es la mejor opción, ya que es donde las usuarias suelen buscar inspiración (ideas) y como consejo dar mantenimiento al Facebook actual
+
+5. Se tiene un seguro, por producto y se manejan todas las paqueterías
+
+6. Se puede hacer la compra y el pago en cualquier punto de la República Mexicana, puede pagar en efectivo en tiendas de conveniencia y bancos; y en cualquier parte del mundo se puede hacer hacer el pago con cualquier tarjeta.
+
+7. Si Kichink tiene el producto en el almacen, ellos lo empacan y lo envían. Si la tienda lo envía directo,seprograma con Kichink cuando recoja la mensajería el paquete y ellos lo entregan
+
+8. Cuando el usuario final obtiene el producto, al administrador de la tienda le llega el pago en un lapso de 24 a 48 hrs. En caso de pago en tienda de conveniencia el pago llega automaticamente.
 
 Para el **Negocio Verde** se plantea lo siguiente:
 
-1. Cambiar materiales por materiales ecòlogicos, reusables o comestibles
+1. Cambiar materiales por materiales ecólogicos, reusables o comestibles
 
 2. Hacer uso de papel semilla
 
 3. Usar tintas vegetales
 
-5. Minimizar el uso de agua y materiales plàsticos no reusables
+5. Minimizar el uso de agua y materiales plásticos no reusables
 
 ### Mapeo de Competencia
 
@@ -131,7 +142,9 @@ En la siguiente imagen se muestra la posible competencia que *CUCU Caramelo* pod
 
 ## Prototipo
 
-### Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
+LINK DE TIENDA
+
+## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
 
 CONTENIDOS
 
