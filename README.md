@@ -43,14 +43,24 @@ CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantem
 
 Con base a lo anterior, se han definido las siguientes problemàticas:
 
-* PROBLEMA 1
-* PROBLEMA 2
+* __Hace falta un sistema de envìos que agilice la recepciòn de los pedidos__
+
+* __Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiraciòn__
+
+* __Que el alcance sea mayor y no sòlo dentro del Estado de Mèxico__
+
+* __Generar menos desperdicios__
+
+* __Disminuir el cansancio de las usuarias, a la hora de terminado el evento__
+
+
 
 ## Definición del Público Objetivo
 
 Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Google Forms para definir al Pùblico Objetivo
 
 * [Formulario](https://goo.gl/forms/tIii4u1RYboI15UC3)
+
 
 ### Resultados Pùblico Objetivo
 
@@ -66,11 +76,28 @@ Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que se
 
 ### Historias de Usuarios
 
-* HISTORIA 1
-* HISTORIA 2
-* HISTORIA 3
+* Yo como usuaria quisiera poder hacer un pedido a *CUCU Caramelo* y que este llegue en tiempo y forma al destino donde lo requiero, sin tener que ir a recogerlo
+
+* Yo como usuaria me gustarìa poder visualizar los productos de *CUCU Caramelo* en una plataforma por Internet, asì tambièn podrè compartirlos màs facilmente con otras posibles interesadas
+
+* Yo como usuaria, al final del evento termino cansada de recoger la basura que se genera en el evento, quisiera que eso pudiera disminuir
+
 
 ## Definición de la Solución
+
+Con lo anterior, se dedujò una Hipotèsis misma que fue validada ([con este formulario])(https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
+
+Hipotèsis: 
+
+__Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes__
+
+* Consideraciones importantes:
+
+En cuanto a la necesidad de un negocio digital, se dedujo lo siguiente:
+![negociodigital](
+
+El negocio verde aportarìa lo siguiente:
+![negocioverde](
 
 ## Prototipo
 
