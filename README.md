@@ -125,7 +125,9 @@ Para el **Negocio Verde** se plantea lo siguiente:
 
 ### Mapeo de Competencia
 
-![mapeocompetencia](IMAGEN
+En la siguiente imagen se muestra la posible competencia que *CUCU Caramelo* podría tener, si considera vender on-line. Se han considerado tiendas con un concepto cercano al que tendría *CUCU Caramelo*, sin embargo son pocas realmente o ninguna que se podrían ver como posible competencia directa. La más cercana en este caso sería *NATURE Decoración y Regalos Sustentables*, quien se enfoca principalmente en vender productos naturales, con etiquetas de papel reciclado. Pero no es el mismo mercado meta, ni el mismo uso final.
+
+![mapeocompetencia](https://github.com/elsycardona/e-commerce/blob/master/Imagenes/mapeocompetencia.png?raw=true)
 
 ## Prototipo
 
