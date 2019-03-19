@@ -16,7 +16,7 @@
 
 ## Introducción
 
-![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)
+<div style="text-align: center">![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)</div>
 
 "*CUCU Caramelo*" es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
 Con el propósito de darle un toque novedoso a sus recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
