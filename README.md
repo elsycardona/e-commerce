@@ -1,29 +1,133 @@
-## e-commerce: Market Place
+## Market Place
 
 ## Índice
 
-- [Definición del Problema](#Definición-del-Problema)
-- [Antecedentes Previos](#Antecedentes-Previos)
-- [Hipótesis](#Hipótesis)
-- [Validación de Hipótesis](#Validación-de-Hipótesis)
-- [Análisis](#Análisis)
-- [Interpretación y Solución](#Interpretación-y-Solución)
+- [Introducción](#Introducción)
+- [Objetivos del Proyecto](#Objetivos-del-Proyecto)
+- [Problemas Identificados en la Investigación](#Problemas-Identificados-en-la-Investigación)
+- [Definición del Público Objetivo](#Definición-del-Público-Objetivo)
+- [Definición de la Solución](#Definición-de-la-Solución)
+- [Prototipo](#Prototipo)
+- [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos)
+- [Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-las-Necesidades-del-Usuario-Final)
 - [Herramientas](#Herramientas)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
 
+## Introducción
 
-## Definición del Problema
+![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)
 
-## Antecedentes Previos
+"*CUCU Caramelo*" es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
+Con el propósito de dar un toque novedoso a los recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
 
-## Hipótesis
+La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos de sus puntos de venta, como en Toluca y Metepec, como tal no tiene una tienda fìsica, sin embargo los usuarios que compran fuera de este tipo de tiendas, recogen el producto en la casa de la Diseñadora y Lìder del proyecto *Angèlica Duràn*; asì mismo se comunican por medio de WhatsApp y/o llamada a celular.
 
-## Validación de Hipótesis
+CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angèlica y compradores de Party Land.
 
-## Análisis
 
-## Interpretación y Solución
+## Objetivos del Proyecto
+
+* Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
+* De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
+* Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
+
+
+## Problemas Identificados en la Investigación
+
+
+![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true)
+
+
+__Con base a lo anterior, se han definido las siguientes problemàticas:__
+
+* Hace falta un sistema de envìos que agilice la recepciòn de los pedidos
+
+* Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiraciòn
+
+* Que el alcance sea mayor y no sòlo dentro del Estado de Mèxico
+
+* Generar menos desperdicios
+
+* Disminuir el cansancio de las usuarias, a la hora de terminado el evento
+
+
+
+## Definición del Público Objetivo
+
+Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Google Forms para definir al Pùblico Objetivo
+
+* [Formulario](https://goo.gl/forms/tIii4u1RYboI15UC3)
+
+
+### Resultados Pùblico Objetivo
+
+![usuaria](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/usuaria.png?raw=true)
+
+Mujeres entre 25 y 36 años, con hijos menores de 15 años.
+Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la tecnologìa, las compras por Internet y conscientes con el medio ambiente.
+
+Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que ser òptimo, està pendiente de los detalles, suele buscar inspiraciòn e ideas para la decoraciòn.
+
+![emociones](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/emocionesusuaria.png?raw=true)
+
+
+### Historias de Usuarios
+
+* Yo como usuaria quisiera poder hacer un pedido a *CUCU Caramelo* y que este llegue en tiempo y forma al destino donde lo requiero, sin tener que ir a recogerlo
+
+* Yo como usuaria me gustarìa poder visualizar los productos de *CUCU Caramelo* en una plataforma por Internet, asì tambièn podrè compartirlos màs facilmente con otras posibles interesadas
+
+* Yo como usuaria, al final del evento termino cansada de recoger la basura que se genera en el evento, quisiera que eso pudiera disminuir
+
+
+## Definición de la Solución
+
+Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este formulario](https://goo.gl/forms/7445AIGnHWwRCe9v2) por las Usuarias.
+
+### Hipotèsis: 
+
+*Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes*
+
+
+### Consideraciones importantes:
+
+![negociodigital](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negociodigital.png?raw=true)
+
+![negocioverde](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negocioverde.png?raw=true)
+
+
+### Validaciòn de Hipòtesis
+
+La hipotèsis, una vez vàlidada por las usuarias y considerando lo anterior; se realizò un Journey Map y una propuesta de valor donde ambas arrojaròn lo siguiente:
+
+![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
+
+[Propuesta de Valor](PREZI!!!)
+
+Con lo anterior se precisò realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
+
+Para el **Negocio Digital** se plantea lo siguiente:
+
+1. Abrir una tienda en Kinchink, ya que esta le darà el alcance que busca a un costo moderado, asì mismo maneja el àrea de envìos y proporciona un catalogo con los precios
+
+2. Abrir una pàgina de inspiraciòn en Pinterest, y como consejo dar mantenimiento al Facebook actual
+
+Para el **Negocio Verde** se plantea lo siguiente:
+
+1. Cambiar materiales por materiales ecòlogicos, reusables o comestibles
+
+2. Hacer uso de papel semilla
+
+3. Usar tintas vegetales
+
+5. Minimizar el uso de agua y materiales plàsticos no reusables
+
+## Prototipo
+
+## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos
+
+## Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final
 
 ## Herramientas
 
