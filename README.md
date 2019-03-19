@@ -29,9 +29,7 @@ CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantem
 ## Objetivos del Proyecto
 
 * Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
-
 * De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
-
 * Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
 
 
@@ -41,17 +39,17 @@ CUCU Caramelo cuenta con una pàgina de Facebook, que no se actualiza constantem
 ![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true)
 
 
-Con base a lo anterior, se han definido las siguientes problemàticas:
+__Con base a lo anterior, se han definido las siguientes problemàticas:__
 
-* __Hace falta un sistema de envìos que agilice la recepciòn de los pedidos__
+* Hace falta un sistema de envìos que agilice la recepciòn de los pedidos
 
-* __Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiraciòn__
+* Generar un catalogo existente, visible en algun sitio web, para realizar compras, compartir con otras personas y/o generar inspiraciòn
 
-* __Que el alcance sea mayor y no sòlo dentro del Estado de Mèxico__
+* Que el alcance sea mayor y no sòlo dentro del Estado de Mèxico
 
-* __Generar menos desperdicios__
+* Generar menos desperdicios
 
-* __Disminuir el cansancio de las usuarias, a la hora de terminado el evento__
+* Disminuir el cansancio de las usuarias, a la hora de terminado el evento
 
 
 
@@ -89,16 +87,41 @@ Con lo anterior, se dedujò una Hipotèsis misma que fue validada, [con este for
 
 ### Hipotèsis: 
 
-__Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes__
+*Se tienen dos problèmaticas principales, una que va màs enfocada a un E-commerce y la otra que es mudar el proyecto a un negocio verde, ambas podrìan atacarse a la par para generar un mismo valor, ya que el usuario considera ambas como importantes*
 
 
 ### Consideraciones importantes:
 
-En cuanto a la necesidad de un negocio digital, se dedujo lo siguiente:
 ![negociodigital](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negociodigital.png?raw=true)
 
-El negocio verde aportarìa lo siguiente:
 ![negocioverde](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/negocioverde.png?raw=true)
+
+
+### Validaciòn de Hipòtesis
+
+La hipotèsis, una vez vàlidada por las usuarias y considerando lo anterior; se realizò un Journey Map y una propuesta de valor donde ambas arrojaròn lo siguiente:
+
+![journeymap](
+
+[Propuesta de Valor](PREZI!!!)
+
+Con lo anterior se precisò realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
+
+Para el **Negocio Digital** se plantea lo siguiente:
+
+1. Abrir una tienda en Kinchink, ya que esta le darà el alcance que busca a un costo moderado, asì mismo maneja el àrea de envìos y proporciona un catalogo con los precios
+
+2. Abrir una pàgina de inspiraciòn en Pinterest, y como consejo dar mantenimiento al Facebook actual
+
+Para el **Negocio Verde** se plantea lo siguiente:
+
+1. Cambiar materiales por materiales ecòlogicos, reusables o comestibles
+
+2. Hacer uso de papel semilla
+
+3. Usar tintas vegetales
+
+5. Minimizar el uso de agua y materiales plàsticos no reusables
 
 ## Prototipo
 
