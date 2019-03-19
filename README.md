@@ -31,7 +31,7 @@ Con el propósito de darle un toque novedoso a sus recuerdos, para que el client
 
 ## Problemas Identificados en la Investigación
 
-**![Problema](/e-commerce/Imagenes/Problema.png?raw=true "-")**
+**![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true "-")**
 
 ## Definición del Público Objetivo
 
