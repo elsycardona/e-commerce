@@ -61,7 +61,14 @@ Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la
 
 Dedica tiempo para la organizaciòn de sus celebraciones, pero este tiene que ser òptimo, està pendiente de los detalles, suele buscar inspiraciòn e ideas para la decoraciòn.
 
+![emociones](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/emocionesusuaria.png?raw=true)
+
+
 ### Historias de Usuarios
+
+* HISTORIA 1
+* HISTORIA 2
+* HISTORIA 3
 
 ## Definición de la Solución
 
