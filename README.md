@@ -1,29 +1,47 @@
-## e-commerce: Market Place
+## Market Place
 
 ## Índice
 
-- [Definición del Problema](#Definición-del-Problema)
-- [Antecedentes Previos](#Antecedentes-Previos)
-- [Hipótesis](#Hipótesis)
-- [Validación de Hipótesis](#Validación-de-Hipótesis)
-- [Análisis](#Análisis)
-- [Interpretación y Solución](#Interpretación-y-Solución)
+- [Introducción](#Introducción)
+- [Objetivos del Proyecto](#Objetivos-del-Proyecto)
+- [Problemas Identificados en la Investigación](#Problemas-Identificados-en-la-Investigación)
+- [Definición del Público Objetivo](#Definición-del-Público-Objetivo)
+- [Definición de la Solución](#Definición-de-la-Solución)
+- [Prototipo](#Prototipo)
+- [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos)
+- [Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-las-Necesidades-del-Usuario-Final)
 - [Herramientas](#Herramientas)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
 
+## Introducción
 
-## Definición del Problema
+"*CUCU Caramelo*" es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
+Con el propósito de darle un toque novedoso a sus recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
 
-## Antecedentes Previos
 
-## Hipótesis
+## Objetivos del Proyecto
 
-## Validación de Hipótesis
+Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
 
-## Análisis
+De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
 
-## Interpretación y Solución
+Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
+
+
+## Problemas Identificados en la Investigación
+
+**![Problema](/relative/path/to/img.png?raw=true "-")**
+
+## Definición del Público Objetivo
+
+## Definición de la Solución
+
+## Prototipo
+
+## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos
+
+## Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final
 
 ## Herramientas
 
