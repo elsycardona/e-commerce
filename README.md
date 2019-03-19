@@ -22,16 +22,16 @@ Con el propósito de darle un toque novedoso a sus recuerdos, para que el client
 
 ## Objetivos del Proyecto
 
-Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
+* Al proyecto descrito, se le incentivarà de la mejor manera a travès de una investigaciòn.
 
-De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
+* De ser necesario, por medio de la investigaciòn, se le replantearà un pùblico objetivo
 
-Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
+* Se le brindaràn soluciones encaminadas a un producto que determine de manera eficaz, sus pròximos alcances.
 
 
 ## Problemas Identificados en la Investigación
 
-**![Problema](/relative/path/to/img.png?raw=true "-")**
+**![Problema](/e-commerce/Imagenes/Problema.png?raw=true "-")**
 
 ## Definición del Público Objetivo
 
