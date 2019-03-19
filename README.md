@@ -103,7 +103,7 @@ La hipotèsis, una vez vàlidada por las usuarias y considerando lo anterior; se
 
 ![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
 
-[Propuesta de Valor](PREZI!!!)
+[Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/)
 
 Con lo anterior se precisò realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
 
@@ -123,11 +123,15 @@ Para el **Negocio Verde** se plantea lo siguiente:
 
 5. Minimizar el uso de agua y materiales plàsticos no reusables
 
+### Mapeo de Competencia
+
+![mapeocompetencia](IMAGEN
+
 ## Prototipo
 
-## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos
+### Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
 
-## Análisis de los Contenidos y Funcionalidades Respecto a las Necesidades del Usuario Final
+CONTENIDOS
 
 ## Herramientas
 
