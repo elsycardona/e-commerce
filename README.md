@@ -16,10 +16,14 @@
 
 ## Introducción
 
-<center>https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true</center>
+![logo](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/logo.png?raw=true)
 
 <span style="color:pink">"*CUCU Caramelo*"</span> es una empresa 100% Mexicana dedicada a la venta y distribución de **diseño en detalles para eventos sociales**, con diseños de alta calidad, innovadores, frescos y divertidos.
-Con el propósito de darle un toque novedoso a sus recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
+Con el propósito de dar un toque novedoso a los recuerdos, para que el cliente le de los acabados finales que a èl màs le convenga.
+
+La empresa lleva 15 años en el mercado, es proveedor de *Party Land* en algunos de sus puntos de venta, como en Toluca y Metepec, como tal no tiene una tienda fìsica, sin embargo los usuarios que compran fuera de este tipo de tiendas, recogen el producto en la casa de la Diseñadora y Lìder del proyecto *Angèlica Duràn*; asì mismo se comunican por medio de WhatsApp y/o llamada a celular.
+
+*CUCU Caramelo* cuenta con una pàgina de Facebook, que no se actualiza constantemente, pero que tiene varios seguidores; principalmente conocidos de Angèlica y compradores de Party Land.
 
 
 ## Objetivos del Proyecto
@@ -34,12 +38,23 @@ Con el propósito de darle un toque novedoso a sus recuerdos, para que el client
 ## Problemas Identificados en la Investigación
 
 
-
 ![Problema](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/Problema.png?raw=true)
 
 
-
 ## Definición del Público Objetivo
+
+Se hizo una investigaciòn exahustiva donde se implementò un cuestionario en Google Forms para definir al Pùblico Objetivo
+
+* [Formulario](https://goo.gl/forms/tIii4u1RYboI15UC3)
+
+### Resultados Pùblico Objetivo
+
+![usuaria](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/usuaria.png?raw=true)
+
+Mujeres entre 25 y 36 años, con hijos menores de 15 años.
+Que suelen tener trabajos con horarios de tiempo completo, familiarizadas con la tecnologìa, las compras por Internet y conscientes con el medio ambiente.
+
+### Historias de Usuarios
 
 ## Definición de la Solución
 
