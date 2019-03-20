@@ -9,6 +9,8 @@
 - [Definición de la Solución](#Definición-de-la-Solución)
 - [Prototipo](#Prototipo)
 - [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos-y-Necesidades-del-Usuario-Final)
+- [Vídeo Explicativo](#Vídeo-Explicativo)
+- [Hacker Edition](#Hacker-Edition)
 - [Herramientas](#Herramientas)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
@@ -102,7 +104,7 @@ La hipótesis, una vez validada por las usuarias y considerando lo anterior; se 
 
 ![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
 
-[Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/)
+[Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/) - Visualización en Prezi
 
 Con lo anterior se precisó realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
 
@@ -185,6 +187,18 @@ En cuanto a las categorìas se han propuesto las siguientes:
 ![cucu5](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu5.png?raw=true)
 
 
+## Vídeo Explicativo
+
+En el siguiente video se explica este documento de una manera breve: 
+
+[Video - Loom](https://www.useloom.com/share/2d352d6d3524491d9c87af4b02f1aea1)
+
+## Hacker Edition
+
+En está sección se optó por publicar un texto en Medium, en el siguiente link:
+
+[Texto - Medium](HTTPS:// 
+
 ## Herramientas
 
 Durante este proceso se usaron diversas herramientas:
@@ -194,6 +208,8 @@ Durante este proceso se usaron diversas herramientas:
 - [Google Drive](https://www.google.com/intl/es-419/drive/) - Reporte de UX
 - [Real Time Board](https://realtimeboard.com) - Organización de Investigación
 - [Kichink](https://www.kichink.com/) - Utilización de sitio
+- [Prezi](https://prezi.com/) - Presentación de Canvas (Propuesta de Valor)
+- [Medium](https://medium.com/)
 
 
 ## Autoras
