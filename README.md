@@ -150,7 +150,7 @@ En la siguiente imagen se muestra la posible competencia que *CUCU Caramelo* pod
 [kichink.com/stores/cucu](https://www.kichink.com/stores/cucu)
 
 Visualizaciòn de la Tienda on-line:
-![cucu1](CUCU1
+![cucuhome](CUCUHOME
 
 
 ## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
@@ -167,22 +167,22 @@ El usuario podrà ver el producto, antes de su compra:
 -Guardar el producto en un carrito virtual
 -Guardar el producto en una lista de favoritos
 
-![cucu2](CUCU2
+![cucu2](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu2.png?raw=true)
 
 En el carrito se puede visualizar:
 
 -Una fotografìa
 -El artìculo
 -El nùmero de unidades a comprar
--El importe
--El descuento (en caso de haber)
+-Importe
+-Descuentos
 -Un subtotal
 
-![cucu4](CUCU4
+![cucu4](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu4.png?raw=true)
 
 En cuanto a las categorìas se han propuesto las siguientes:
 
-![cucu5](CUCU5
+![cucu5](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu5.png?raw=true)
 
 
 ## Herramientas
