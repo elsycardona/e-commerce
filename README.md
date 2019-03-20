@@ -173,9 +173,9 @@ El usuario podrà ver el producto, antes de su compra:
 
 En el carrito se puede visualizar:
 
-- Una fotografìa
-- El artìculo
-- El nùmero de unidades a comprar
+- Una fotografía
+- El artículo
+- El número de unidades a comprar
 - Importe
 - Descuentos
 - Un subtotal
@@ -186,6 +186,10 @@ En cuanto a las categorìas se han propuesto las siguientes:
 
 ![cucu5](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu5.png?raw=true)
 
+### Invitaciones Digitales
+
+*PASOS
+
 
 ## Vídeo Explicativo
 
@@ -193,13 +197,9 @@ En el siguiente video se explica este documento de una manera breve:
 
 [Video - Loom](https://www.useloom.com/share/2d352d6d3524491d9c87af4b02f1aea1)
 
-## Hacker Edition
-
-En está sección se optó por publicar un texto en Medium, en el siguiente link:
-
-[Texto - Medium](HTTPS:// 
-
 ## Herramientas
+
+![puntaje](https://github.com/elsycardona/e-commerce/blob/master/Imagenes/puntaje.png?raw=true)
 
 Durante este proceso se usaron diversas herramientas:
 - [Google](https://www.google.com/) - Buscador
@@ -210,6 +210,12 @@ Durante este proceso se usaron diversas herramientas:
 - [Kichink](https://www.kichink.com/) - Utilización de sitio
 - [Prezi](https://prezi.com/) - Presentación de Canvas (Propuesta de Valor)
 - [Medium](https://medium.com/)
+
+## Hacker Edition
+
+En está sección se optó por publicar un texto en Medium, en el siguiente link:
+
+[Texto - Medium](HTTPS:// 
 
 
 ## Autoras
