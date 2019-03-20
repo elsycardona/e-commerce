@@ -157,26 +157,26 @@ Visualizaciòn de la Tienda on-line:
 
 El usuario podrà ver el producto, antes de su compra:
 
--Fotografìas
--Descripciòn
--Costos
--Colores
--Nùmero disponible de unidades
--Disponibilidad de entrega
--Podrà compartir el producto
--Guardar el producto en un carrito virtual
--Guardar el producto en una lista de favoritos
+- Fotografìas
+- Descripciòn
+- Costos
+- Colores
+- Nùmero disponible de unidades
+- Disponibilidad de entrega
+- Podrà compartir el producto
+- Guardar el producto en un carrito virtual
+- Guardar el producto en una lista de favoritos
 
 ![cucu2](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu2.png?raw=true)
 
 En el carrito se puede visualizar:
 
--Una fotografìa
--El artìculo
--El nùmero de unidades a comprar
--Importe
--Descuentos
--Un subtotal
+- Una fotografìa
+- El artìculo
+- El nùmero de unidades a comprar
+- Importe
+- Descuentos
+- Un subtotal
 
 ![cucu4](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu4.png?raw=true)
 
