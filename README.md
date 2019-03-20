@@ -150,7 +150,7 @@ En la siguiente imagen se muestra la posible competencia que *CUCU Caramelo* pod
 [kichink.com/stores/cucu](https://www.kichink.com/stores/cucu)
 
 Visualizaciòn de la Tienda on-line:
-![cucuhome](CUCUHOME
+![cucuhome](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucuhome.png?raw=true)
 
 
 ## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
@@ -194,7 +194,7 @@ Durante este proceso se usaron diversas herramientas:
 - [Google Drive](https://www.google.com/intl/es-419/drive/) - Reporte de UX
 - [Real Time Board](https://realtimeboard.com) - Organización de Investigación
 - [Kichink](https://www.kichink.com/) - Utilización de sitio
-- [Figma](https://www.figma.com/prototyping-tool/) - Prototipo de Alta Calidad
+
 
 ## Autoras
 
