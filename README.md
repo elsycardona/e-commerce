@@ -124,14 +124,16 @@ Para el **Negocio Digital** se plantea lo siguiente:
 
 8. Cuando el usuario final obtiene el producto, al administrador de la tienda le llega el pago en un lapso de 24 a 48 hrs. En caso de pago en tienda de conveniencia el pago llega automaticamente.
 
+9. Los costos de envío que maneja Kichink son de los más competitivos del mercado y éstos dependen de varias cosas, como el destino de tu producto, el lugar de recolección y el peso del paquete; éste corre a cargo del comprador.
+
+
 Para el **Negocio Verde** se plantea lo siguiente:
 
 1. Cambiar materiales por materiales ecólogicos, reusables o comestibles. 
-	*50 etiquetas de cartulina kraft de 300 gr., medida 5 x 8 cm con 10 mts de cordon de yute natural por $89.00
 
-2. Hacer uso de papel semilla
+2. Hacer uso de papel semilla, papel reciclado kraft, yute, papel arroz, empaques biodegradables, entre otros materiales
 
-3. Usar tintas vegetales
+3. Usar tintas a base de aceites vegetales (estàs son capaces de reducir la emisión de COVs hasta en un 80 %)
 
 5. Minimizar el uso de agua y materiales plásticos no reusables
 
@@ -145,11 +147,43 @@ En la siguiente imagen se muestra la posible competencia que *CUCU Caramelo* pod
 
 ## Prototipo
 
-LINK DE TIENDA
+[kichink.com/stores/cucu](https://www.kichink.com/stores/cucu)
+
+Visualizaciòn de la Tienda on-line:
+![cucu1](CUCU1
+
 
 ## Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final
 
-CONTENIDOS
+El usuario podrà ver el producto, antes de su compra:
+
+-Fotografìas
+-Descripciòn
+-Costos
+-Colores
+-Nùmero disponible de unidades
+-Disponibilidad de entrega
+-Podrà compartir el producto
+-Guardar el producto en un carrito virtual
+-Guardar el producto en una lista de favoritos
+
+![cucu2](CUCU2
+
+En el carrito se puede visualizar:
+
+-Una fotografìa
+-El artìculo
+-El nùmero de unidades a comprar
+-El importe
+-El descuento (en caso de haber)
+-Un subtotal
+
+![cucu4](CUCU4
+
+En cuanto a las categorìas se han propuesto las siguientes:
+
+![cucu5](CUCU5
+
 
 ## Herramientas
 
@@ -169,4 +203,4 @@ Durante este proceso se usaron diversas herramientas:
 
 ## Agradecimientos
 
-Agradecemos a Angélica Durán diseñadora y emprendedora de "Cucu Caramelo", Gaby su clienta, a todas las mamás que nos ayudaron respondiendo encuestas y testeos, al equipo de Formación del track de UX y a nuestras compañeras por el siempre apoyo.
+Agradecemos a Angélica Durán diseñadora y emprendedora de "Cucu Caramelo", Gaby Aguilar su clienta, a todas las mamás que nos ayudaron respondiendo encuestas y testeos, al equipo de Formación del track de UX y a nuestras compañeras por el siempre apoyo.
