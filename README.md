@@ -141,7 +141,7 @@ Para el **Negocio Verde** se plantea lo siguiente:
 
 Los prototipos de baja fidelidad que se llevaròn acabo para fines pràcticos fueron los siguientes:
 
-![chocolate](IMAGEN1![bolsadepapel](IMAGEN2
+![chocolate](https://github.com/elsycardona/e-commerce/blob/master/Imagenes/chocolatera.jpg?raw=true)![bolsadepapel](https://github.com/elsycardona/e-commerce/blob/master/Imagenes/bolsadepapel.jpg?raw=true)
 
 
 ### Mapeo de Competencia
