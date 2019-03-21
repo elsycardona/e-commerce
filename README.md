@@ -9,9 +9,9 @@
 - [Definición de la Solución](#Definición-de-la-Solución)
 - [Prototipo](#Prototipo)
 - [Análisis de los Contenidos y Funcionalidades Respecto a los Objetivos y Necesidades del Usuario Final](#Análisis-de-los-Contenidos-y-Funcionalidades-Respecto-a-los-Objetivos-y-Necesidades-del-Usuario-Final)
-- [Vídeo Explicativo](#Vídeo-Explicativo)
-- [Hacker Edition](#Hacker-Edition)
+- [Vídeo Explicativo y Presentaciòn](#Vídeo-Explicativo-y-Presentaciòn)
 - [Herramientas](#Herramientas)
+- [Hacker Edition](#Hacker-Edition)
 - [Autoras](#autoras)
 - [Agradecimientos](#agradecimientos)
 
@@ -139,6 +139,9 @@ Para el **Negocio Verde** se plantea lo siguiente:
 
 5. Minimizar el uso de agua y materiales plásticos no reusables
 
+Los prototipos de baja fidelidad que se llevaròn acabo para fines pràcticos fueron los siguientes:
+
+![chocolate](IMAGEN1![bolsadepapel](IMAGEN2
 
 
 ### Mapeo de Competencia
@@ -187,11 +190,13 @@ En cuanto a las categorìas se han propuesto las siguientes:
 ![cucu5](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu5.png?raw=true)
 
 
-## Vídeo Explicativo
+## Vídeo Explicativo y Presentaciòn
 
 En el siguiente video se explica este documento de una manera breve: 
 
 [Video - Loom](https://www.useloom.com/share/2d352d6d3524491d9c87af4b02f1aea1)
+
+Y aquì se puede visualizar la [presentaciòn cucu caramelo](https://docs.google.com/presentation/d/1LXs78AYv2CccQvBq9Ks7mxWh8_k_xaz4Df5VeGWH3HE/edit?usp=sharing) 
 
 ## Herramientas
 
@@ -205,7 +210,7 @@ Durante este proceso se usaron diversas herramientas:
 - [Real Time Board](https://realtimeboard.com) - Organización de Investigación
 - [Kichink](https://www.kichink.com/) - Utilización de sitio
 - [Prezi](https://prezi.com/) - Presentación de Canvas (Propuesta de Valor)
-- [Medium](https://medium.com/)
+- [Medium](https://medium.com/) - Publicaciòn de Hacker Edition
 
 ## Hacker Edition
 
