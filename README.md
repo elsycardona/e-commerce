@@ -104,7 +104,7 @@ La hipótesis, una vez validada por las usuarias y considerando lo anterior; se 
 
 ![journeymap](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/journeymap.png?raw=true)
 
-[Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/) - Visualización en Prezi
+Visualización en _Prezi_ de la [Propuesta de Valor](https://prezi.com/view/VC3Y2Yn1EVu3bWgGxddF/)
 
 Con lo anterior se precisó realizar la soluciòn enfocada a un Negocio Digital (e-commerce), a corto plazo y una mudanza a un Negocio Verde, en un mediano plazo. 
 
@@ -186,10 +186,6 @@ En cuanto a las categorìas se han propuesto las siguientes:
 
 ![cucu5](https://github.com/elsycardona/e-commerce/blob/ramaElsy/Imagenes/cucu5.png?raw=true)
 
-### Invitaciones Digitales
-
-*PASOS
-
 
 ## Vídeo Explicativo
 
@@ -215,13 +211,14 @@ Durante este proceso se usaron diversas herramientas:
 
 En está sección se optó por publicar un texto en Medium, en el siguiente link:
 
-[Texto - Medium](HTTPS:// 
+[Texto - Medium](https://medium.com/@elsycp/experimentando-con-ux-ce741cd3632f)
 
 
 ## Autoras
 
 - Diana Peláez Gómez - [Diana-Pelaez](https://github.com/Diana-Pelaez)
 - Elsy Cardona Pérez - [elsycardona](https://github.com/elsycardona/)
+
 
 ## Agradecimientos
 
